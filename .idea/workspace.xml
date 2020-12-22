@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c0ea8eb-556d-42e8-bd69-82e3f254fbd2" name="Default Changelist" comment="Start" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lsyRJvzpSnBIdoy44VzWmMeAU3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/template/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp_1\htdocs\reactshop\template\images" />
+      <recent name="C:\xampp_1\htdocs\reactshop\frontend\src\screens" />
+      <recent name="C:\xampp_1\htdocs\reactshop\backend" />
+      <recent name="C:\xampp_1\htdocs\reactshop\frontend\public" />
+      <recent name="C:\xampp_1\htdocs\reactshop\frontend\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp_1\htdocs\reactshop" />
+      <recent name="C:\xampp_1\htdocs\reactshop\template" />
+      <recent name="C:\xampp_1\htdocs\reactshop\frontend" />
+      <recent name="C:\xampp_1\htdocs\reactshop\frontend\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c0ea8eb-556d-42e8-bd69-82e3f254fbd2" name="Default Changelist" comment="" />
+      <created>1608400088797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608400088797</updated>
+      <workItem from="1608400091490" duration="24000" />
+      <workItem from="1608401922267" duration="13771000" />
+      <workItem from="1608460914621" duration="17010000" />
+      <workItem from="1608486536059" duration="146000" />
+      <workItem from="1608541446928" duration="3531000" />
+      <workItem from="1608545457990" duration="8349000" />
+      <workItem from="1608556444202" duration="1435000" />
+      <workItem from="1608566571935" duration="2427000" />
+      <workItem from="1608570341058" duration="8206000" />
+      <workItem from="1608610915118" duration="215000" />
+      <workItem from="1608611151839" duration="2146000" />
+      <workItem from="1608613332030" duration="10830000" />
+      <workItem from="1608625909111" duration="2109000" />
+      <workItem from="1608631242268" duration="22000" />
+      <workItem from="1608635199743" duration="7600000" />
+      <workItem from="1608644434645" duration="1861000" />
+      <workItem from="1608662250960" duration="893000" />
+      <workItem from="1608663545215" duration="156000" />
+    </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1608662702522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608662702522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ReactShop" />
+      <path value="$PROJECT_DIR$/frontend" />
+      <path value="$PROJECT_DIR$/React-Shop" />
+      <path value="$PROJECT_DIR$/React-Shop/frontend" />
+    </ignored-roots>
+    <MESSAGE value="Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+  </component>
+</project>
