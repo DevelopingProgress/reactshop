@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c0ea8eb-556d-42e8-bd69-82e3f254fbd2" name="Default Changelist" comment="Start" />
+    <list default="true" id="4c0ea8eb-556d-42e8-bd69-82e3f254fbd2" name="Default Changelist" comment="Start">
+      <change afterPath="$PROJECT_DIR$/frontend/build/static/css/main.cade411c.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/build/static/css/main.cade411c.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/build/static/js/2.d10fdc00.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/build/static/js/2.d10fdc00.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/build/static/js/2.d10fdc00.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/build/static/js/main.7fba701c.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/build/static/js/main.7fba701c.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/CheckoutSteps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/screens/PaymentScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/screens/PlaceOrderScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/screens/ShippingScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/productRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/productRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/static/css/main.2ebe0ba3.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/static/css/main.2ebe0ba3.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/static/js/2.56719eaf.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/static/js/2.56719eaf.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/static/js/2.56719eaf.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/static/js/main.255017c4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/static/js/main.255017c4.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/actions/cartActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/actions/cartActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/actions/productActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/actions/productActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/constants/cartConstants.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/constants/cartConstants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/reducers/cartReducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/reducers/cartReducers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/screens/RegisterScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/screens/RegisterScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/screens/SigninScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/screens/SigninScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.10.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.10.development.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,15 +76,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/template/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/screens" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp_1\htdocs\reactshop\template\images" />
       <recent name="C:\xampp_1\htdocs\reactshop\frontend\src\screens" />
+      <recent name="C:\xampp_1\htdocs\reactshop\template\images" />
       <recent name="C:\xampp_1\htdocs\reactshop\backend" />
       <recent name="C:\xampp_1\htdocs\reactshop\frontend\public" />
       <recent name="C:\xampp_1\htdocs\reactshop\frontend\public\images" />
@@ -60,19 +97,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -103,6 +127,7 @@
       <workItem from="1608644434645" duration="1861000" />
       <workItem from="1608662250960" duration="893000" />
       <workItem from="1608663545215" duration="156000" />
+      <workItem from="1608670797096" duration="7646000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1608662702522</created>

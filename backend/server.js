@@ -25,14 +25,6 @@ app.use("/api/users", userRoute);
 app.use("/api/products", productRoute);
 
 
-app.get("/api/products/:id", async (req, res) => {
-    const productId = req.params.id;
-    const product = await Product.findOne({_id: productId});
-    if (product)
-        res.send(product);
-    else
-        res.status(404).send({msg: "Product Not Found. Something rly messed up!"});
-});
 
 
 
